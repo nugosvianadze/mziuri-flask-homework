@@ -1,10 +1,10 @@
 # ჩამოტვირთეთ ეს რეპოზიტორია,არ ამიტვირთოთ იგივე README.MD ფაილი. გამოიყენეთ ამ პრეოქტში არსებული html თიმფლეითი და main.py
 
 ``` bash
-git clone https://github.com/nugosvianadze/mziuri-flask-homework.git
-cd mziuri-flask-homework
-git remote remove origin(ჩემი რეპოს გალინკვის წაშლა) ან
-git remote rename origin upstream (origin სახელის შეცვლა რთათქვენ დაარქვათ origin, origin remote ჩამატების ლინკი გექნებათ ახალ რეპოზიტორიას რომ შექმნით მაშინ)
+git clone https://github.com/nugosvianadze/mziuri-flask-homework.git (ესაა კომანდი პროექტის თქვენს საქაღალდეში ჩამოსატვირთად)
+cd mziuri-flask-homework (ესაა change directory ბრძანება რომელიც შეგიყვანთ პრეოქტის საქაღალდეში)
+git remote remove origin (ჩემი რეპოს გალინკვის წაშლა) ან
+git remote rename origin upstream (origin სახელის შეცვლა upstream-ად რათა ქვენ დაარქვათ origin, origin remote ჩამატების ლინკი გექნებათ ახალ რეპოზიტორიას რომ შექმნით მაშინ)
 ```
 # დავალება: Products List Viewer (Flask)
 
